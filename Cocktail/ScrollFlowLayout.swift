@@ -8,6 +8,8 @@
 
 import UIKit
 
+//MARK: - UICollectionViewFlowLayout
+
 class ScrollFlowLayout: UICollectionViewFlowLayout {
     
     private var previousOffset: CGFloat = 0.0
